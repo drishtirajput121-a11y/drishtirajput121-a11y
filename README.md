@@ -30,11 +30,14 @@ I focus on understanding concepts deeply, improving practical skills gradually, 
 I started learning cybersecurity without paid labs or subscriptions, relying on free resources, consistency, and curiosity.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-rajput-181790316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drishtirajput120@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-rajput-181790316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drishtirajput120@gmail.com) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/drishtirajput121) [![LeetCode](https://img.shields.io/badge/LeetCode-%230E1012.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/7o2IycHVPB/)
+
+
+
 
 # Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-# GitHub Stats:
+# GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=drishtirajput121-a11y&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=drishtirajput121-a11y&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtirajput121-a11y&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
