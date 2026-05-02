@@ -1,46 +1,68 @@
-## About Me
+<!-- Header -->
+<div align="center">
 
-I am a beginner in Cybersecurity and Computer Science, currently building my foundation through self-study, structured notes, and hands-on learning platforms such as TryHackMe and Hack The Box.
-I focus on understanding concepts deeply, improving practical skills gradually, and documenting my learning journey.
+```python
+dev = {
+  "name": "Drishti",
+  "role": "Python Developer 🖥️",
+  "location": "India 🇮🇳",
+  "learning": "DSA (and loving the pain)",
+  "philosophy": "Code. Debug. Repeat"
+}
+```
 
-## Currently Learning
-- Cybersecurity fundamentals  
-- Linux (Ubuntu and Kali Linux)  
-- Networking basics  
-- Computer Science concepts  
-- Python  
-- MySQL  
-
-## Looking to Collaborate On
-- Beginner-friendly cybersecurity projects  
-- Linux-based learning projects  
-- Documentation and learning-based repositories  
-
-## Looking for Help With
-- Understanding GitHub workflows  
-- Improving hands-on practice  
-- Converting theoretical knowledge into real-world skills  
-
-## Ask Me About
-- Starting a tech journey with limited resources  
-- Making effective handwritten and digital notes  
-- Beginner challenges in cybersecurity  
-
-## Fun Fact
-I started learning cybersecurity without paid labs or subscriptions, relying on free resources, consistency, and curiosity.
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drishti-rajput-181790316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drishtirajput120@gmail.com) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/drishtirajput121) [![LeetCode](https://img.shields.io/badge/LeetCode-%230E1012.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/7o2IycHVPB/)
-
-
-
-
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-# GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=drishtirajput121-a11y&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=drishtirajput121-a11y&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtirajput121-a11y&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=drishtirajput121-a11y&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🟢 Currently
+- ⚡ Grinding DSA at ungodly hours
+- learning devops security
+
+## ⚡ Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drishtirajput121-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+
+---
+
+## 🔗 Find me on
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/drishti-rajput-181790316/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Drishti_O1" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:drishtirajput121@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <i>"Code Debug Repeat"</i>
+</div>
