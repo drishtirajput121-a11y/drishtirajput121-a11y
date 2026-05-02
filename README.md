@@ -1,7 +1,9 @@
 <!-- Header -->
-<div align="center">
+<img align="right" src="https://sweezy-cursors.com/wp-content/uploads/cursor/pac-man-pinky-blue-ghost-animated/pac-man-pinky-blue-ghost-animated-custom-cursor.gif" width="450" alt="Pacman Ghost"/>
+<img align="right" src="https://raw.githubusercontent.com/nicokrauss/nicokrauss/main/assets/transparent.png" width="20" height="1" alt="spacer"/>
 
-```python
+```
+python
 dev = {
   "name": "Drishti",
   "role": "Python Developer 🖥️",
@@ -10,10 +12,6 @@ dev = {
   "philosophy": "Code. Debug. Repeat"
 }
 ```
-
-</div>
-
----
 
 ## 🟢 Currently
 - ⚡ Grinding DSA at ungodly hours
