@@ -1,0 +1,21 @@
+name: Generate Pac-Man
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          npm install -g pacman-contribution-graph
+          pacman-contribution-graph --username ${{ github.repository_owner }} --output pacman.svg
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@example.com"
+          git add pacman.svg
+          git commit -m "update pacman" || echo "no changes"
+          git push
