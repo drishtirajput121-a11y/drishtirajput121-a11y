@@ -1,5 +1,5 @@
 <!-- Header -->
-<img align="right" src="https://sweezy-cursors.com/wp-content/uploads/cursor/pac-man-pinky-blue-ghost-animated/pac-man-pinky-blue-ghost-animated-custom-cursor.gif" width="350" alt="Pacman Ghost"/>
+<img align="right" src="https://sweezy-cursors.com/wp-content/uploads/cursor/pac-man-pinky-blue-ghost-animated/pac-man-pinky-blue-ghost-animated-custom-cursor.gif" width="250" alt="Pacman Ghost"/>
 <img align="right" src="https://raw.githubusercontent.com/nicokrauss/nicokrauss/main/assets/transparent.png" width="20" height="1" alt="spacer"/>
 
 ```
