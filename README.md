@@ -35,7 +35,7 @@ dev = {
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drishtirajput121-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drishtirajput121-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="60%"/>
 </p>
 
 ---
