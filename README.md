@@ -7,7 +7,7 @@ dev = {
   "role": "Python Developer 🖥️",
   "location": "India 🇮🇳",
   "learning": "DSA (and loving the pain)",
-  "philosophy": "Code. Debug. Repeat"
+  "philosophy": "Giving up is not in the blood, sir. It's not in the blood"
 }
 ```
 
@@ -49,5 +49,5 @@ dev = {
 ---
 
 <div align="center">
-  <i>"Code. Debug. Repeat."</i>
+  <i>"Code. Debug. Repeat"</i>
 </div>
