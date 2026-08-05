@@ -7,8 +7,7 @@ dev = {
   "role": "Python Developer 🖥️",
   "location": "India 🇮🇳",
   "learning": "DSA (and loving the pain)",
-  "philosophy": "Giving up is not in the blood, sir. It's not in the blood"
-}
+  "philosophy": "Giving up is not in the blood, sir. It's not in the blood. — Nim"}
 ```
 
 ## 🟢 Currently
